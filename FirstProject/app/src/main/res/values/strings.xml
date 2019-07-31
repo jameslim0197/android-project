@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstProject</string>
+    <string name="edit_fullname">Nama Lengkap</string>
+    <string name="edit_phone">Nomor Telepon</string>
+</resources>
